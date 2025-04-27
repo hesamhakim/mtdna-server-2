@@ -21,10 +21,6 @@ Release [v2.1.14](../../releases/tag/v2.1.14) - Load resource conf
 
 Release [v2.1.13](../../releases/tag/v2.1.13) - Update to latest Haplogrep3 
 
-Release [v2.1.12](../../releases/tag/v2.1.12) - Install Haplogrep3 tree directly.
-
-Release [v2.1.11](../../releases/tag/v2.1.11) - Improve QC command, update to latest mutserve v2.0.1.
-
-Release [v2.1.10](../../releases/tag/v2.1.10) - Improved mutect2 support: create missing RG tags, write inidividual reference sequence on the fly, support complex ref tags.
+support complex ref tags.
 
 

@@ -46,6 +46,7 @@ params:
 ```{r setup, include=FALSE}
 
 
+
 MIN_COVERAGE_PERCENTAGE = 90;
 MIN_MEAN_BASE_QUALITY = 15;
 MIN_MEAN_DEPTH = 50
